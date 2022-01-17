@@ -1,0 +1,5 @@
+---
+- import_playbook: acejas/acl.yaml
+- import_playbook: acejas/Backups.yaml
+- import_playbook: acejas/ospf.yaml
+- import_playbook: acejas/ipaddress.yaml
